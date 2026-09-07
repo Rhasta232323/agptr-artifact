@@ -1,0 +1,8 @@
+# Google Colab (Python 3.10+) with a T4 GPU was used.
+opacus==1.4.0
+torch>=2.0
+torchvision>=0.15
+numpy
+pandas
+matplotlib
+tqdm

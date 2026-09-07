@@ -1,0 +1,359 @@
+exp,attack,attack_key,method,f,seed,sigma_mode,sigma_dp,sigma_sel,sigma_rel,eps_nominal,eps_certified,rounds,acc,accept_rate,wall_sec,status,error,source,timestamp
+expD,ALIE,alie,AG-PTR (P=I),0.0,1,nominal,0.9723217465539842,1.965902445173369,0.9829512225866845,1.999999999999998,2.5907524257649563,180,0.1068,0.36666666666666664,87.0,ok,,run,2026-09-03T23:24:15
+expD,ALIE,alie,AG-PTR (FedAdam-diag P),0.0,1,nominal,0.9723217465539842,1.965902445173369,0.9829512225866845,1.999999999999998,2.5907524257649563,180,0.7547,0.39444444444444443,88.2,ok,,run,2026-09-03T23:25:43
+expD,ALIE,alie,AG-PTR (P=I),0.0,2,nominal,0.9723217465539842,1.965902445173369,0.9829512225866845,1.999999999999998,2.5907524257649563,180,0.5638,0.31666666666666665,84.3,ok,,run,2026-09-03T23:27:07
+expD,ALIE,alie,AG-PTR (FedAdam-diag P),0.0,2,nominal,0.9723217465539842,1.965902445173369,0.9829512225866845,1.999999999999998,2.5907524257649563,180,0.7552,0.39444444444444443,85.7,ok,,run,2026-09-03T23:28:33
+expD,ALIE,alie,DP-FedAvg (FedAdam),0.0,0,nominal,,,,,,180,0.0984,,,ok,,legacy,2026-09-03T23:28:33
+expD,ALIE,alie,DP-FedAvg (FedAdam),0.1,0,nominal,,,,,,180,0.1023,,,ok,,legacy,2026-09-03T23:28:33
+expD,ALIE,alie,DP-FedAvg (FedAdam),0.2,0,nominal,,,,,,180,0.1026,,,ok,,legacy,2026-09-03T23:28:33
+expD,ALIE,alie,DP-FedAvg (FedAdam),0.3,0,nominal,,,,,,180,0.1273,,,ok,,legacy,2026-09-03T23:28:33
+expD,ALIE,alie,DP-FedAvg (FedAdam),0.4,0,nominal,,,,,,180,0.1013,,,ok,,legacy,2026-09-03T23:28:33
+expD,ALIE,alie,DP-FedAvg (FedAdam),0.49,0,nominal,,,,,,180,0.1007,,,ok,,legacy,2026-09-03T23:28:33
+expD,ALIE,alie,DP-FedAvg (FedAdam),0.6,0,nominal,,,,,,180,0.1007,,,ok,,legacy,2026-09-03T23:28:33
+expD,ALIE,alie,FedVRDP-style (FedAdam),0.0,0,nominal,,,,,,180,0.5172,,,ok,,legacy,2026-09-03T23:28:33
+expD,ALIE,alie,FedVRDP-style (FedAdam),0.1,0,nominal,,,,,,180,0.3685,,,ok,,legacy,2026-09-03T23:28:33
+expD,ALIE,alie,FedVRDP-style (FedAdam),0.2,0,nominal,,,,,,180,0.1405,,,ok,,legacy,2026-09-03T23:28:33
+expD,ALIE,alie,FedVRDP-style (FedAdam),0.3,0,nominal,,,,,,180,0.1552,,,ok,,legacy,2026-09-03T23:28:33
+expD,ALIE,alie,FedVRDP-style (FedAdam),0.4,0,nominal,,,,,,180,0.1344,,,ok,,legacy,2026-09-03T23:28:33
+expD,ALIE,alie,FedVRDP-style (FedAdam),0.49,0,nominal,,,,,,180,0.1261,,,ok,,legacy,2026-09-03T23:28:33
+expD,ALIE,alie,FedVRDP-style (FedAdam),0.6,0,nominal,,,,,,180,0.154,,,ok,,legacy,2026-09-03T23:28:33
+expD,ALIE,alie,Median (FedAdam),0.0,0,nominal,,,,,,180,0.7789,,,ok,,legacy,2026-09-03T23:28:33
+expD,ALIE,alie,Median (FedAdam),0.1,0,nominal,,,,,,180,0.0998,,,ok,,legacy,2026-09-03T23:28:33
+expD,ALIE,alie,Median (FedAdam),0.2,0,nominal,,,,,,180,0.408,,,ok,,legacy,2026-09-03T23:28:33
+expD,ALIE,alie,Median (FedAdam),0.3,0,nominal,,,,,,180,0.1824,,,ok,,legacy,2026-09-03T23:28:33
+expD,ALIE,alie,Median (FedAdam),0.4,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:33
+expD,ALIE,alie,Median (FedAdam),0.49,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:33
+expD,ALIE,alie,Median (FedAdam),0.6,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:33
+expD,ALIE,alie,TrimmedMean (FedAdam),0.0,0,nominal,,,,,,180,0.8256,,,ok,,legacy,2026-09-03T23:28:33
+expD,ALIE,alie,TrimmedMean (FedAdam),0.1,0,nominal,,,,,,180,0.3568,,,ok,,legacy,2026-09-03T23:28:33
+expD,ALIE,alie,TrimmedMean (FedAdam),0.2,0,nominal,,,,,,180,0.2561,,,ok,,legacy,2026-09-03T23:28:33
+expD,ALIE,alie,TrimmedMean (FedAdam),0.3,0,nominal,,,,,,180,0.1714,,,ok,,legacy,2026-09-03T23:28:33
+expD,ALIE,alie,TrimmedMean (FedAdam),0.4,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:33
+expD,ALIE,alie,TrimmedMean (FedAdam),0.49,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:33
+expD,ALIE,alie,TrimmedMean (FedAdam),0.6,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:33
+expD,ALIE,alie,Krum (FedAdam),0.0,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:33
+expD,ALIE,alie,Krum (FedAdam),0.1,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:33
+expD,ALIE,alie,Krum (FedAdam),0.2,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:33
+expD,ALIE,alie,Krum (FedAdam),0.3,0,nominal,,,,,,180,0.1542,,,ok,,legacy,2026-09-03T23:28:33
+expD,ALIE,alie,Krum (FedAdam),0.4,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:33
+expD,ALIE,alie,Krum (FedAdam),0.49,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:33
+expD,ALIE,alie,Krum (FedAdam),0.6,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:33
+expD,ALIE,alie,SparseFed-style (FedAdam),0.0,0,nominal,,,,,,180,0.8708,,,ok,,legacy,2026-09-03T23:28:33
+expD,ALIE,alie,SparseFed-style (FedAdam),0.1,0,nominal,,,,,,180,0.441,,,ok,,legacy,2026-09-03T23:28:33
+expD,ALIE,alie,SparseFed-style (FedAdam),0.2,0,nominal,,,,,,180,0.1458,,,ok,,legacy,2026-09-03T23:28:33
+expD,ALIE,alie,SparseFed-style (FedAdam),0.3,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:33
+expD,ALIE,alie,SparseFed-style (FedAdam),0.4,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:33
+expD,ALIE,alie,SparseFed-style (FedAdam),0.49,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,ALIE,alie,SparseFed-style (FedAdam),0.6,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,ALIE,alie,AG-PTR (P=I),0.0,0,nominal,,,,,,180,0.2924,0.288889,,ok,,legacy,2026-09-03T23:28:34
+expD,ALIE,alie,AG-PTR (P=I),0.1,0,nominal,,,,,,180,0.1028,0.394444,,ok,,legacy,2026-09-03T23:28:34
+expD,ALIE,alie,AG-PTR (P=I),0.2,0,nominal,,,,,,180,0.1009,0.416667,,ok,,legacy,2026-09-03T23:28:34
+expD,ALIE,alie,AG-PTR (P=I),0.3,0,nominal,,,,,,180,0.2895,0.3,,ok,,legacy,2026-09-03T23:28:34
+expD,ALIE,alie,AG-PTR (P=I),0.4,0,nominal,,,,,,180,0.1101,0.2,,ok,,legacy,2026-09-03T23:28:34
+expD,ALIE,alie,AG-PTR (P=I),0.49,0,nominal,,,,,,180,0.4505,0.055556,,ok,,legacy,2026-09-03T23:28:34
+expD,ALIE,alie,AG-PTR (P=I),0.6,0,nominal,,,,,,180,0.2171,0.016667,,ok,,legacy,2026-09-03T23:28:34
+expD,ALIE,alie,AG-PTR (FedAdam-diag P),0.0,0,nominal,,,,,,180,0.757,0.35,,ok,,legacy,2026-09-03T23:28:34
+expD,ALIE,alie,AG-PTR (FedAdam-diag P),0.1,0,nominal,,,,,,180,0.7536,0.327778,,ok,,legacy,2026-09-03T23:28:34
+expD,ALIE,alie,AG-PTR (FedAdam-diag P),0.2,0,nominal,,,,,,180,0.7347,0.1,,ok,,legacy,2026-09-03T23:28:34
+expD,ALIE,alie,AG-PTR (FedAdam-diag P),0.3,0,nominal,,,,,,180,0.7211,0.111111,,ok,,legacy,2026-09-03T23:28:34
+expD,ALIE,alie,AG-PTR (FedAdam-diag P),0.4,0,nominal,,,,,,180,0.7161,0.083333,,ok,,legacy,2026-09-03T23:28:34
+expD,ALIE,alie,AG-PTR (FedAdam-diag P),0.49,0,nominal,,,,,,180,0.7211,0.088889,,ok,,legacy,2026-09-03T23:28:34
+expD,ALIE,alie,AG-PTR (FedAdam-diag P),0.6,0,nominal,,,,,,180,0.3826,0.005556,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,DP-FedAvg (FedAdam),0.0,0,nominal,,,,,,180,0.0984,,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,DP-FedAvg (FedAdam),0.1,0,nominal,,,,,,180,0.1172,,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,DP-FedAvg (FedAdam),0.2,0,nominal,,,,,,180,0.4761,,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,DP-FedAvg (FedAdam),0.3,0,nominal,,,,,,180,0.4189,,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,DP-FedAvg (FedAdam),0.4,0,nominal,,,,,,180,0.2319,,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,DP-FedAvg (FedAdam),0.49,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,DP-FedAvg (FedAdam),0.6,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,FedVRDP-style (FedAdam),0.0,0,nominal,,,,,,180,0.5172,,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,FedVRDP-style (FedAdam),0.1,0,nominal,,,,,,180,0.574,,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,FedVRDP-style (FedAdam),0.2,0,nominal,,,,,,180,0.4869,,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,FedVRDP-style (FedAdam),0.3,0,nominal,,,,,,180,0.4278,,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,FedVRDP-style (FedAdam),0.4,0,nominal,,,,,,180,0.2605,,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,FedVRDP-style (FedAdam),0.49,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,FedVRDP-style (FedAdam),0.6,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,Median (FedAdam),0.0,0,nominal,,,,,,180,0.7789,,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,Median (FedAdam),0.1,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,Median (FedAdam),0.2,0,nominal,,,,,,180,0.5252,,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,Median (FedAdam),0.3,0,nominal,,,,,,180,0.2189,,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,Median (FedAdam),0.4,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,Median (FedAdam),0.49,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,Median (FedAdam),0.6,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,TrimmedMean (FedAdam),0.0,0,nominal,,,,,,180,0.8256,,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,TrimmedMean (FedAdam),0.1,0,nominal,,,,,,180,0.6876,,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,TrimmedMean (FedAdam),0.2,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,TrimmedMean (FedAdam),0.3,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,TrimmedMean (FedAdam),0.4,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,TrimmedMean (FedAdam),0.49,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,TrimmedMean (FedAdam),0.6,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,Krum (FedAdam),0.0,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,Krum (FedAdam),0.1,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,Krum (FedAdam),0.2,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,Krum (FedAdam),0.3,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,Krum (FedAdam),0.4,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,Krum (FedAdam),0.49,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,Krum (FedAdam),0.6,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,SparseFed-style (FedAdam),0.0,0,nominal,,,,,,180,0.8708,,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,SparseFed-style (FedAdam),0.1,0,nominal,,,,,,180,0.3213,,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,SparseFed-style (FedAdam),0.2,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,SparseFed-style (FedAdam),0.3,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,SparseFed-style (FedAdam),0.4,0,nominal,,,,,,180,0.1322,,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,SparseFed-style (FedAdam),0.49,0,nominal,,,,,,180,0.1027,,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,SparseFed-style (FedAdam),0.6,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,AG-PTR (P=I),0.0,0,nominal,,,,,,180,0.2924,0.288889,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,AG-PTR (P=I),0.1,0,nominal,,,,,,180,0.3438,0.194444,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,AG-PTR (P=I),0.2,0,nominal,,,,,,180,0.1065,0.277778,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,AG-PTR (P=I),0.3,0,nominal,,,,,,180,0.1119,0.211111,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,AG-PTR (P=I),0.4,0,nominal,,,,,,180,0.318,0.088889,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,AG-PTR (P=I),0.49,0,nominal,,,,,,180,0.3364,0.066667,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,AG-PTR (P=I),0.6,0,nominal,,,,,,180,0.0427,0.0,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,AG-PTR (FedAdam-diag P),0.0,0,nominal,,,,,,180,0.757,0.35,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,AG-PTR (FedAdam-diag P),0.1,0,nominal,,,,,,180,0.7587,0.477778,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,AG-PTR (FedAdam-diag P),0.2,0,nominal,,,,,,180,0.7547,0.472222,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,AG-PTR (FedAdam-diag P),0.3,0,nominal,,,,,,180,0.7343,0.205556,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,AG-PTR (FedAdam-diag P),0.4,0,nominal,,,,,,180,0.7208,0.094444,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,AG-PTR (FedAdam-diag P),0.49,0,nominal,,,,,,180,0.633,0.05,,ok,,legacy,2026-09-03T23:28:34
+expD,SF,sf,AG-PTR (FedAdam-diag P),0.6,0,nominal,,,,,,180,0.0427,0.0,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,DP-FedAvg (FedAdam),0.0,0,nominal,,,,,,180,0.0984,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,DP-FedAvg (FedAdam),0.1,0,nominal,,,,,,180,0.1019,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,DP-FedAvg (FedAdam),0.2,0,nominal,,,,,,180,0.0878,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,DP-FedAvg (FedAdam),0.3,0,nominal,,,,,,180,0.4082,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,DP-FedAvg (FedAdam),0.4,0,nominal,,,,,,180,0.3786,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,DP-FedAvg (FedAdam),0.49,0,nominal,,,,,,180,0.232,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,DP-FedAvg (FedAdam),0.6,0,nominal,,,,,,180,0.1501,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,FedVRDP-style (FedAdam),0.0,0,nominal,,,,,,180,0.5172,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,FedVRDP-style (FedAdam),0.1,0,nominal,,,,,,180,0.5956,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,FedVRDP-style (FedAdam),0.2,0,nominal,,,,,,180,0.5222,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,FedVRDP-style (FedAdam),0.3,0,nominal,,,,,,180,0.3791,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,FedVRDP-style (FedAdam),0.4,0,nominal,,,,,,180,0.2186,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,FedVRDP-style (FedAdam),0.49,0,nominal,,,,,,180,0.2468,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,FedVRDP-style (FedAdam),0.6,0,nominal,,,,,,180,0.0985,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,Median (FedAdam),0.0,0,nominal,,,,,,180,0.7789,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,Median (FedAdam),0.1,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,Median (FedAdam),0.2,0,nominal,,,,,,180,0.5251,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,Median (FedAdam),0.3,0,nominal,,,,,,180,0.0823,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,Median (FedAdam),0.4,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,Median (FedAdam),0.49,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,Median (FedAdam),0.6,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,TrimmedMean (FedAdam),0.0,0,nominal,,,,,,180,0.8256,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,TrimmedMean (FedAdam),0.1,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,TrimmedMean (FedAdam),0.2,0,nominal,,,,,,180,0.2595,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,TrimmedMean (FedAdam),0.3,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,TrimmedMean (FedAdam),0.4,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,TrimmedMean (FedAdam),0.49,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,TrimmedMean (FedAdam),0.6,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,Krum (FedAdam),0.0,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,Krum (FedAdam),0.1,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,Krum (FedAdam),0.2,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,Krum (FedAdam),0.3,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,Krum (FedAdam),0.4,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,Krum (FedAdam),0.49,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,Krum (FedAdam),0.6,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,SparseFed-style (FedAdam),0.0,0,nominal,,,,,,180,0.8708,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,SparseFed-style (FedAdam),0.1,0,nominal,,,,,,180,0.6981,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,SparseFed-style (FedAdam),0.2,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,SparseFed-style (FedAdam),0.3,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,SparseFed-style (FedAdam),0.4,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,SparseFed-style (FedAdam),0.49,0,nominal,,,,,,180,0.0758,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,SparseFed-style (FedAdam),0.6,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,AG-PTR (P=I),0.0,0,nominal,,,,,,180,0.2924,0.288889,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,AG-PTR (P=I),0.1,0,nominal,,,,,,180,0.1015,0.394444,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,AG-PTR (P=I),0.2,0,nominal,,,,,,180,0.1021,0.433333,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,AG-PTR (P=I),0.3,0,nominal,,,,,,180,0.1736,0.227778,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,AG-PTR (P=I),0.4,0,nominal,,,,,,180,0.2858,0.072222,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,AG-PTR (P=I),0.49,0,nominal,,,,,,180,0.3713,0.055556,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,AG-PTR (P=I),0.6,0,nominal,,,,,,180,0.0427,0.0,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,AG-PTR (FedAdam-diag P),0.0,0,nominal,,,,,,180,0.757,0.35,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,AG-PTR (FedAdam-diag P),0.1,0,nominal,,,,,,180,0.7591,0.472222,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,AG-PTR (FedAdam-diag P),0.2,0,nominal,,,,,,180,0.7504,0.433333,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,AG-PTR (FedAdam-diag P),0.3,0,nominal,,,,,,180,0.7496,0.244444,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,AG-PTR (FedAdam-diag P),0.4,0,nominal,,,,,,180,0.7304,0.105556,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,AG-PTR (FedAdam-diag P),0.49,0,nominal,,,,,,180,0.6329,0.05,,ok,,legacy,2026-09-03T23:28:34
+expD,MinMax,minmax,AG-PTR (FedAdam-diag P),0.6,0,nominal,,,,,,180,0.0427,0.0,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,DP-FedAvg (FedAdam),0.0,0,nominal,,,,,,180,0.0984,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,DP-FedAvg (FedAdam),0.1,0,nominal,,,,,,180,0.1023,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,DP-FedAvg (FedAdam),0.2,0,nominal,,,,,,180,0.097,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,DP-FedAvg (FedAdam),0.3,0,nominal,,,,,,180,0.4045,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,DP-FedAvg (FedAdam),0.4,0,nominal,,,,,,180,0.2937,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,DP-FedAvg (FedAdam),0.49,0,nominal,,,,,,180,0.3044,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,DP-FedAvg (FedAdam),0.6,0,nominal,,,,,,180,0.117,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,FedVRDP-style (FedAdam),0.0,0,nominal,,,,,,180,0.5172,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,FedVRDP-style (FedAdam),0.1,0,nominal,,,,,,180,0.5913,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,FedVRDP-style (FedAdam),0.2,0,nominal,,,,,,180,0.4895,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,FedVRDP-style (FedAdam),0.3,0,nominal,,,,,,180,0.3895,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,FedVRDP-style (FedAdam),0.4,0,nominal,,,,,,180,0.3015,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,FedVRDP-style (FedAdam),0.49,0,nominal,,,,,,180,0.3529,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,FedVRDP-style (FedAdam),0.6,0,nominal,,,,,,180,0.2132,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,Median (FedAdam),0.0,0,nominal,,,,,,180,0.7789,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,Median (FedAdam),0.1,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,Median (FedAdam),0.2,0,nominal,,,,,,180,0.5252,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,Median (FedAdam),0.3,0,nominal,,,,,,180,0.2189,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,Median (FedAdam),0.4,0,nominal,,,,,,180,0.0999,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,Median (FedAdam),0.49,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,Median (FedAdam),0.6,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,TrimmedMean (FedAdam),0.0,0,nominal,,,,,,180,0.8256,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,TrimmedMean (FedAdam),0.1,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,TrimmedMean (FedAdam),0.2,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,TrimmedMean (FedAdam),0.3,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,TrimmedMean (FedAdam),0.4,0,nominal,,,,,,180,0.1001,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,TrimmedMean (FedAdam),0.49,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,TrimmedMean (FedAdam),0.6,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,Krum (FedAdam),0.0,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,Krum (FedAdam),0.1,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,Krum (FedAdam),0.2,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,Krum (FedAdam),0.3,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,Krum (FedAdam),0.4,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,Krum (FedAdam),0.49,0,nominal,,,,,,180,0.1032,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,Krum (FedAdam),0.6,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,SparseFed-style (FedAdam),0.0,0,nominal,,,,,,180,0.8708,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,SparseFed-style (FedAdam),0.1,0,nominal,,,,,,180,0.5352,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,SparseFed-style (FedAdam),0.2,0,nominal,,,,,,180,0.1004,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,SparseFed-style (FedAdam),0.3,0,nominal,,,,,,180,0.4753,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,SparseFed-style (FedAdam),0.4,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,SparseFed-style (FedAdam),0.49,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,SparseFed-style (FedAdam),0.6,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,AG-PTR (P=I),0.0,0,nominal,,,,,,180,0.2924,0.288889,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,AG-PTR (P=I),0.1,0,nominal,,,,,,180,0.1073,0.388889,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,AG-PTR (P=I),0.2,0,nominal,,,,,,180,0.1202,0.333333,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,AG-PTR (P=I),0.3,0,nominal,,,,,,180,0.1769,0.211111,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,AG-PTR (P=I),0.4,0,nominal,,,,,,180,0.318,0.088889,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,AG-PTR (P=I),0.49,0,nominal,,,,,,180,0.392,0.055556,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,AG-PTR (P=I),0.6,0,nominal,,,,,,180,0.0427,0.0,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,AG-PTR (FedAdam-diag P),0.0,0,nominal,,,,,,180,0.757,0.35,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,AG-PTR (FedAdam-diag P),0.1,0,nominal,,,,,,180,0.7508,0.394444,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,AG-PTR (FedAdam-diag P),0.2,0,nominal,,,,,,180,0.7501,0.427778,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,AG-PTR (FedAdam-diag P),0.3,0,nominal,,,,,,180,0.7505,0.244444,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,AG-PTR (FedAdam-diag P),0.4,0,nominal,,,,,,180,0.7305,0.105556,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,AG-PTR (FedAdam-diag P),0.49,0,nominal,,,,,,180,0.6329,0.05,,ok,,legacy,2026-09-03T23:28:34
+expD,MinSum,minsum,AG-PTR (FedAdam-diag P),0.6,0,nominal,,,,,,180,0.0427,0.0,,ok,,legacy,2026-09-03T23:28:34
+expD,LF,lf,DP-FedAvg (FedAdam),0.0,0,nominal,,,,,,180,0.0984,,,ok,,legacy,2026-09-03T23:28:34
+expD,LF,lf,DP-FedAvg (FedAdam),0.1,0,nominal,,,,,,180,0.0993,,,ok,,legacy,2026-09-03T23:28:34
+expD,LF,lf,DP-FedAvg (FedAdam),0.2,0,nominal,,,,,,180,0.1012,,,ok,,legacy,2026-09-03T23:28:34
+expD,LF,lf,DP-FedAvg (FedAdam),0.3,0,nominal,,,,,,180,0.0995,,,ok,,legacy,2026-09-03T23:28:34
+expD,LF,lf,DP-FedAvg (FedAdam),0.4,0,nominal,,,,,,180,0.0983,,,ok,,legacy,2026-09-03T23:28:34
+expD,LF,lf,DP-FedAvg (FedAdam),0.49,0,nominal,,,,,,180,0.0975,,,ok,,legacy,2026-09-03T23:28:34
+expD,LF,lf,DP-FedAvg (FedAdam),0.6,0,nominal,,,,,,180,0.0969,,,ok,,legacy,2026-09-03T23:28:34
+expD,LF,lf,FedVRDP-style (FedAdam),0.0,0,nominal,,,,,,180,0.5172,,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,FedVRDP-style (FedAdam),0.1,0,nominal,,,,,,180,0.4437,,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,FedVRDP-style (FedAdam),0.2,0,nominal,,,,,,180,0.3888,,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,FedVRDP-style (FedAdam),0.3,0,nominal,,,,,,180,0.1058,,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,FedVRDP-style (FedAdam),0.4,0,nominal,,,,,,180,0.1673,,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,FedVRDP-style (FedAdam),0.49,0,nominal,,,,,,180,0.1182,,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,FedVRDP-style (FedAdam),0.6,0,nominal,,,,,,180,0.1004,,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,Median (FedAdam),0.0,0,nominal,,,,,,180,0.7789,,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,Median (FedAdam),0.1,0,nominal,,,,,,180,0.7687,,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,Median (FedAdam),0.2,0,nominal,,,,,,180,0.7511,,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,Median (FedAdam),0.3,0,nominal,,,,,,180,0.7533,,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,Median (FedAdam),0.4,0,nominal,,,,,,180,0.6837,,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,Median (FedAdam),0.49,0,nominal,,,,,,180,0.4071,,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,Median (FedAdam),0.6,0,nominal,,,,,,180,0.0869,,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,TrimmedMean (FedAdam),0.0,0,nominal,,,,,,180,0.8256,,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,TrimmedMean (FedAdam),0.1,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,TrimmedMean (FedAdam),0.2,0,nominal,,,,,,180,0.6663,,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,TrimmedMean (FedAdam),0.3,0,nominal,,,,,,180,0.7109,,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,TrimmedMean (FedAdam),0.4,0,nominal,,,,,,180,0.2692,,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,TrimmedMean (FedAdam),0.49,0,nominal,,,,,,180,0.4298,,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,TrimmedMean (FedAdam),0.6,0,nominal,,,,,,180,0.0923,,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,Krum (FedAdam),0.0,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,Krum (FedAdam),0.1,0,nominal,,,,,,180,0.1002,,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,Krum (FedAdam),0.2,0,nominal,,,,,,180,0.0992,,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,Krum (FedAdam),0.3,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,Krum (FedAdam),0.4,0,nominal,,,,,,180,0.1883,,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,Krum (FedAdam),0.49,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,Krum (FedAdam),0.6,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,SparseFed-style (FedAdam),0.0,0,nominal,,,,,,180,0.8708,,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,SparseFed-style (FedAdam),0.1,0,nominal,,,,,,180,0.7899,,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,SparseFed-style (FedAdam),0.2,0,nominal,,,,,,180,0.8363,,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,SparseFed-style (FedAdam),0.3,0,nominal,,,,,,180,0.8543,,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,SparseFed-style (FedAdam),0.4,0,nominal,,,,,,180,0.6676,,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,SparseFed-style (FedAdam),0.49,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,SparseFed-style (FedAdam),0.6,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,AG-PTR (P=I),0.0,0,nominal,,,,,,180,0.2924,0.288889,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,AG-PTR (P=I),0.1,0,nominal,,,,,,180,0.1015,0.2,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,AG-PTR (P=I),0.2,0,nominal,,,,,,180,0.1358,0.394444,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,AG-PTR (P=I),0.3,0,nominal,,,,,,180,0.1002,0.338889,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,AG-PTR (P=I),0.4,0,nominal,,,,,,180,0.1024,0.411111,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,AG-PTR (P=I),0.49,0,nominal,,,,,,180,0.1049,0.327778,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,AG-PTR (P=I),0.6,0,nominal,,,,,,180,0.0427,0.0,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,AG-PTR (FedAdam-diag P),0.0,0,nominal,,,,,,180,0.757,0.35,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,AG-PTR (FedAdam-diag P),0.1,0,nominal,,,,,,180,0.7526,0.327778,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,AG-PTR (FedAdam-diag P),0.2,0,nominal,,,,,,180,0.7365,0.094444,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,AG-PTR (FedAdam-diag P),0.3,0,nominal,,,,,,180,0.7282,0.094444,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,AG-PTR (FedAdam-diag P),0.4,0,nominal,,,,,,180,0.7208,0.088889,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,AG-PTR (FedAdam-diag P),0.49,0,nominal,,,,,,180,0.7133,0.094444,,ok,,legacy,2026-09-03T23:28:35
+expD,LF,lf,AG-PTR (FedAdam-diag P),0.6,0,nominal,,,,,,180,0.0427,0.0,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,DP-FedAvg (FedAdam),0.0,0,nominal,,,,,,180,0.0984,,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,DP-FedAvg (FedAdam),0.1,0,nominal,,,,,,180,0.0965,,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,DP-FedAvg (FedAdam),0.2,0,nominal,,,,,,180,0.3975,,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,DP-FedAvg (FedAdam),0.3,0,nominal,,,,,,180,0.2913,,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,DP-FedAvg (FedAdam),0.4,0,nominal,,,,,,180,0.1911,,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,DP-FedAvg (FedAdam),0.49,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,DP-FedAvg (FedAdam),0.6,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,FedVRDP-style (FedAdam),0.0,0,nominal,,,,,,180,0.5172,,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,FedVRDP-style (FedAdam),0.1,0,nominal,,,,,,180,0.6134,,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,FedVRDP-style (FedAdam),0.2,0,nominal,,,,,,180,0.5787,,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,FedVRDP-style (FedAdam),0.3,0,nominal,,,,,,180,0.6101,,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,FedVRDP-style (FedAdam),0.4,0,nominal,,,,,,180,0.5235,,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,FedVRDP-style (FedAdam),0.49,0,nominal,,,,,,180,0.241,,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,FedVRDP-style (FedAdam),0.6,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,Median (FedAdam),0.0,0,nominal,,,,,,180,0.7789,,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,Median (FedAdam),0.1,0,nominal,,,,,,180,0.7049,,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,Median (FedAdam),0.2,0,nominal,,,,,,180,0.5488,,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,Median (FedAdam),0.3,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,Median (FedAdam),0.4,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,Median (FedAdam),0.49,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,Median (FedAdam),0.6,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,TrimmedMean (FedAdam),0.0,0,nominal,,,,,,180,0.8256,,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,TrimmedMean (FedAdam),0.1,0,nominal,,,,,,180,0.7606,,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,TrimmedMean (FedAdam),0.2,0,nominal,,,,,,180,0.6187,,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,TrimmedMean (FedAdam),0.3,0,nominal,,,,,,180,0.0953,,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,TrimmedMean (FedAdam),0.4,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,TrimmedMean (FedAdam),0.49,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,TrimmedMean (FedAdam),0.6,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,Krum (FedAdam),0.0,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,Krum (FedAdam),0.1,0,nominal,,,,,,180,0.5602,,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,Krum (FedAdam),0.2,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,Krum (FedAdam),0.3,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,Krum (FedAdam),0.4,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,Krum (FedAdam),0.49,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,Krum (FedAdam),0.6,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,SparseFed-style (FedAdam),0.0,0,nominal,,,,,,180,0.8708,,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,SparseFed-style (FedAdam),0.1,0,nominal,,,,,,180,0.8794,,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,SparseFed-style (FedAdam),0.2,0,nominal,,,,,,180,0.8931,,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,SparseFed-style (FedAdam),0.3,0,nominal,,,,,,180,0.8933,,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,SparseFed-style (FedAdam),0.4,0,nominal,,,,,,180,0.8814,,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,SparseFed-style (FedAdam),0.49,0,nominal,,,,,,180,0.1001,,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,SparseFed-style (FedAdam),0.6,0,nominal,,,,,,180,0.1,,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,AG-PTR (P=I),0.0,0,nominal,,,,,,180,0.2924,0.288889,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,AG-PTR (P=I),0.1,0,nominal,,,,,,180,0.3438,0.194444,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,AG-PTR (P=I),0.2,0,nominal,,,,,,180,0.0864,0.311111,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,AG-PTR (P=I),0.3,0,nominal,,,,,,180,0.1525,0.205556,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,AG-PTR (P=I),0.4,0,nominal,,,,,,180,0.318,0.088889,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,AG-PTR (P=I),0.49,0,nominal,,,,,,180,0.3364,0.066667,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,AG-PTR (P=I),0.6,0,nominal,,,,,,180,0.0427,0.0,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,AG-PTR (FedAdam-diag P),0.0,0,nominal,,,,,,180,0.757,0.35,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,AG-PTR (FedAdam-diag P),0.1,0,nominal,,,,,,180,0.7566,0.411111,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,AG-PTR (FedAdam-diag P),0.2,0,nominal,,,,,,180,0.7537,0.388889,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,AG-PTR (FedAdam-diag P),0.3,0,nominal,,,,,,180,0.7491,0.161111,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,AG-PTR (FedAdam-diag P),0.4,0,nominal,,,,,,180,0.7208,0.094444,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,AG-PTR (FedAdam-diag P),0.49,0,nominal,,,,,,180,0.6432,0.044444,,ok,,legacy,2026-09-03T23:28:35
+expD,FoE,foe,AG-PTR (FedAdam-diag P),0.6,0,nominal,,,,,,180,0.0427,0.0,,ok,,legacy,2026-09-03T23:28:35
+expD,ALIE,alie,AG-PTR (P=I),0.0,0,certified,0.9723217465539842,2.1741775212960315,1.0870887606480157,1.57639206414255,1.999999999999996,180,0.1024,0.4111111111111111,85.6,ok,,run,2026-09-03T23:30:04
+expD,ALIE,alie,AG-PTR (FedAdam-diag P),0.0,0,certified,0.9723217465539842,2.1741775212960315,1.0870887606480157,1.57639206414255,1.999999999999996,180,0.7511,0.19444444444444445,85.4,ok,,run,2026-09-03T23:31:30
+expD,ALIE,alie,AG-PTR (P=I),0.3,0,certified,0.9723217465539842,2.1741775212960315,1.0870887606480157,1.57639206414255,1.999999999999996,180,0.4318,0.43333333333333335,68.9,ok,,run,2026-09-03T23:32:39
+expD,ALIE,alie,AG-PTR (FedAdam-diag P),0.3,0,certified,0.9723217465539842,2.1741775212960315,1.0870887606480157,1.57639206414255,1.999999999999996,180,0.7316,0.11666666666666667,69.0,ok,,run,2026-09-03T23:33:48
+expD,ALIE,alie,AG-PTR (P=I),0.49,0,certified,0.9723217465539842,2.1741775212960315,1.0870887606480157,1.57639206414255,1.999999999999996,180,0.3962,0.03888888888888889,56.2,ok,,run,2026-09-03T23:34:44
+expD,ALIE,alie,AG-PTR (FedAdam-diag P),0.49,0,certified,0.9723217465539842,2.1741775212960315,1.0870887606480157,1.57639206414255,1.999999999999996,180,0.7214,0.08888888888888889,59.2,ok,,run,2026-09-03T23:35:43
+expD,SF,sf,AG-PTR (P=I),0.0,0,certified,0.9723217465539842,2.1741775212960315,1.0870887606480157,1.57639206414255,1.999999999999996,180,0.1024,0.4111111111111111,83.6,ok,,run,2026-09-03T23:37:07
+expD,SF,sf,AG-PTR (FedAdam-diag P),0.0,0,certified,0.9723217465539842,2.1741775212960315,1.0870887606480157,1.57639206414255,1.999999999999996,180,0.7511,0.19444444444444445,85.0,ok,,run,2026-09-03T23:38:32
+expD,SF,sf,AG-PTR (P=I),0.3,0,certified,0.9723217465539842,2.1741775212960315,1.0870887606480157,1.57639206414255,1.999999999999996,180,0.2615,0.2,66.5,ok,,run,2026-09-03T23:39:38
+expD,SF,sf,AG-PTR (FedAdam-diag P),0.3,0,certified,0.9723217465539842,2.1741775212960315,1.0870887606480157,1.57639206414255,1.999999999999996,180,0.7144,0.16111111111111112,69.5,ok,,run,2026-09-03T23:40:48
+expD,SF,sf,AG-PTR (P=I),0.49,0,certified,0.9723217465539842,2.1741775212960315,1.0870887606480157,1.57639206414255,1.999999999999996,180,0.4793,0.05,56.2,ok,,run,2026-09-03T23:41:44
+expD,SF,sf,AG-PTR (FedAdam-diag P),0.49,0,certified,0.9723217465539842,2.1741775212960315,1.0870887606480157,1.57639206414255,1.999999999999996,180,0.6214,0.05,58.6,ok,,run,2026-09-03T23:42:43
+expD,MinMax,minmax,AG-PTR (P=I),0.0,0,certified,0.9723217465539842,2.1741775212960315,1.0870887606480157,1.57639206414255,1.999999999999996,180,0.1024,0.4111111111111111,83.5,ok,,run,2026-09-03T23:44:06
+expD,MinMax,minmax,AG-PTR (FedAdam-diag P),0.0,0,certified,0.9723217465539842,2.1741775212960315,1.0870887606480157,1.57639206414255,1.999999999999996,180,0.7511,0.19444444444444445,84.8,ok,,run,2026-09-03T23:45:31
+expD,MinMax,minmax,AG-PTR (P=I),0.3,0,certified,0.9723217465539842,2.1741775212960315,1.0870887606480157,1.57639206414255,1.999999999999996,180,0.1448,0.17777777777777778,72.7,ok,,run,2026-09-03T23:46:44
+expD,MinMax,minmax,AG-PTR (FedAdam-diag P),0.3,0,certified,0.9723217465539842,2.1741775212960315,1.0870887606480157,1.57639206414255,1.999999999999996,180,0.7419,0.20555555555555555,75.9,ok,,run,2026-09-03T23:48:00
+expD,MinMax,minmax,AG-PTR (P=I),0.49,0,certified,0.9723217465539842,2.1741775212960315,1.0870887606480157,1.57639206414255,1.999999999999996,180,0.4353,0.05,61.1,ok,,run,2026-09-03T23:49:01
+expD,MinMax,minmax,AG-PTR (FedAdam-diag P),0.49,0,certified,0.9723217465539842,2.1741775212960315,1.0870887606480157,1.57639206414255,1.999999999999996,180,0.6216,0.05,64.2,ok,,run,2026-09-03T23:50:05

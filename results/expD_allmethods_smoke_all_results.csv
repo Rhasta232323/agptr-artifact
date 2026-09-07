@@ -1,0 +1,337 @@
+attack,method,f,acc,accept_rate
+ALIE,DP-FedAvg (FedAdam),0.0,0.0984,
+ALIE,DP-FedAvg (FedAdam),0.1,0.1023,
+ALIE,DP-FedAvg (FedAdam),0.2,0.1026,
+ALIE,DP-FedAvg (FedAdam),0.3,0.1273,
+ALIE,DP-FedAvg (FedAdam),0.4,0.1013,
+ALIE,DP-FedAvg (FedAdam),0.49,0.1007,
+ALIE,DP-FedAvg (FedAdam),0.6,0.1007,
+ALIE,FedVRDP-style (FedAdam),0.0,0.5172,
+ALIE,FedVRDP-style (FedAdam),0.1,0.3685,
+ALIE,FedVRDP-style (FedAdam),0.2,0.1405,
+ALIE,FedVRDP-style (FedAdam),0.3,0.1552,
+ALIE,FedVRDP-style (FedAdam),0.4,0.1344,
+ALIE,FedVRDP-style (FedAdam),0.49,0.1261,
+ALIE,FedVRDP-style (FedAdam),0.6,0.154,
+ALIE,Median (FedAdam),0.0,0.7789,
+ALIE,Median (FedAdam),0.1,0.0998,
+ALIE,Median (FedAdam),0.2,0.408,
+ALIE,Median (FedAdam),0.3,0.1824,
+ALIE,Median (FedAdam),0.4,0.1,
+ALIE,Median (FedAdam),0.49,0.1,
+ALIE,Median (FedAdam),0.6,0.1,
+ALIE,TrimmedMean (FedAdam),0.0,0.8256,
+ALIE,TrimmedMean (FedAdam),0.1,0.3568,
+ALIE,TrimmedMean (FedAdam),0.2,0.2561,
+ALIE,TrimmedMean (FedAdam),0.3,0.1714,
+ALIE,TrimmedMean (FedAdam),0.4,0.1,
+ALIE,TrimmedMean (FedAdam),0.49,0.1,
+ALIE,TrimmedMean (FedAdam),0.6,0.1,
+ALIE,Krum (FedAdam),0.0,0.1,
+ALIE,Krum (FedAdam),0.1,0.1,
+ALIE,Krum (FedAdam),0.2,0.1,
+ALIE,Krum (FedAdam),0.3,0.1542,
+ALIE,Krum (FedAdam),0.4,0.1,
+ALIE,Krum (FedAdam),0.49,0.1,
+ALIE,Krum (FedAdam),0.6,0.1,
+ALIE,SparseFed-style (FedAdam),0.0,0.8708,
+ALIE,SparseFed-style (FedAdam),0.1,0.441,
+ALIE,SparseFed-style (FedAdam),0.2,0.1458,
+ALIE,SparseFed-style (FedAdam),0.3,0.1,
+ALIE,SparseFed-style (FedAdam),0.4,0.1,
+ALIE,SparseFed-style (FedAdam),0.49,0.1,
+ALIE,SparseFed-style (FedAdam),0.6,0.1,
+ALIE,AG-PTR (P=I),0.0,0.2924,0.288889
+ALIE,AG-PTR (P=I),0.1,0.1028,0.394444
+ALIE,AG-PTR (P=I),0.2,0.1009,0.416667
+ALIE,AG-PTR (P=I),0.3,0.2895,0.3
+ALIE,AG-PTR (P=I),0.4,0.1101,0.2
+ALIE,AG-PTR (P=I),0.49,0.4505,0.055556
+ALIE,AG-PTR (P=I),0.6,0.2171,0.016667
+ALIE,AG-PTR (FedAdam-diag P),0.0,0.757,0.35
+ALIE,AG-PTR (FedAdam-diag P),0.1,0.7536,0.327778
+ALIE,AG-PTR (FedAdam-diag P),0.2,0.7347,0.1
+ALIE,AG-PTR (FedAdam-diag P),0.3,0.7211,0.111111
+ALIE,AG-PTR (FedAdam-diag P),0.4,0.7161,0.083333
+ALIE,AG-PTR (FedAdam-diag P),0.49,0.7211,0.088889
+ALIE,AG-PTR (FedAdam-diag P),0.6,0.3826,0.005556
+SF,DP-FedAvg (FedAdam),0.0,0.0984,
+SF,DP-FedAvg (FedAdam),0.1,0.1172,
+SF,DP-FedAvg (FedAdam),0.2,0.4761,
+SF,DP-FedAvg (FedAdam),0.3,0.4189,
+SF,DP-FedAvg (FedAdam),0.4,0.2319,
+SF,DP-FedAvg (FedAdam),0.49,0.1,
+SF,DP-FedAvg (FedAdam),0.6,0.1,
+SF,FedVRDP-style (FedAdam),0.0,0.5172,
+SF,FedVRDP-style (FedAdam),0.1,0.574,
+SF,FedVRDP-style (FedAdam),0.2,0.4869,
+SF,FedVRDP-style (FedAdam),0.3,0.4278,
+SF,FedVRDP-style (FedAdam),0.4,0.2605,
+SF,FedVRDP-style (FedAdam),0.49,0.1,
+SF,FedVRDP-style (FedAdam),0.6,0.1,
+SF,Median (FedAdam),0.0,0.7789,
+SF,Median (FedAdam),0.1,0.1,
+SF,Median (FedAdam),0.2,0.5252,
+SF,Median (FedAdam),0.3,0.2189,
+SF,Median (FedAdam),0.4,0.1,
+SF,Median (FedAdam),0.49,0.1,
+SF,Median (FedAdam),0.6,0.1,
+SF,TrimmedMean (FedAdam),0.0,0.8256,
+SF,TrimmedMean (FedAdam),0.1,0.6876,
+SF,TrimmedMean (FedAdam),0.2,0.1,
+SF,TrimmedMean (FedAdam),0.3,0.1,
+SF,TrimmedMean (FedAdam),0.4,0.1,
+SF,TrimmedMean (FedAdam),0.49,0.1,
+SF,TrimmedMean (FedAdam),0.6,0.1,
+SF,Krum (FedAdam),0.0,0.1,
+SF,Krum (FedAdam),0.1,0.1,
+SF,Krum (FedAdam),0.2,0.1,
+SF,Krum (FedAdam),0.3,0.1,
+SF,Krum (FedAdam),0.4,0.1,
+SF,Krum (FedAdam),0.49,0.1,
+SF,Krum (FedAdam),0.6,0.1,
+SF,SparseFed-style (FedAdam),0.0,0.8708,
+SF,SparseFed-style (FedAdam),0.1,0.3213,
+SF,SparseFed-style (FedAdam),0.2,0.1,
+SF,SparseFed-style (FedAdam),0.3,0.1,
+SF,SparseFed-style (FedAdam),0.4,0.1322,
+SF,SparseFed-style (FedAdam),0.49,0.1027,
+SF,SparseFed-style (FedAdam),0.6,0.1,
+SF,AG-PTR (P=I),0.0,0.2924,0.288889
+SF,AG-PTR (P=I),0.1,0.3438,0.194444
+SF,AG-PTR (P=I),0.2,0.1065,0.277778
+SF,AG-PTR (P=I),0.3,0.1119,0.211111
+SF,AG-PTR (P=I),0.4,0.318,0.088889
+SF,AG-PTR (P=I),0.49,0.3364,0.066667
+SF,AG-PTR (P=I),0.6,0.0427,0.0
+SF,AG-PTR (FedAdam-diag P),0.0,0.757,0.35
+SF,AG-PTR (FedAdam-diag P),0.1,0.7587,0.477778
+SF,AG-PTR (FedAdam-diag P),0.2,0.7547,0.472222
+SF,AG-PTR (FedAdam-diag P),0.3,0.7343,0.205556
+SF,AG-PTR (FedAdam-diag P),0.4,0.7208,0.094444
+SF,AG-PTR (FedAdam-diag P),0.49,0.633,0.05
+SF,AG-PTR (FedAdam-diag P),0.6,0.0427,0.0
+MinMax,DP-FedAvg (FedAdam),0.0,0.0984,
+MinMax,DP-FedAvg (FedAdam),0.1,0.1019,
+MinMax,DP-FedAvg (FedAdam),0.2,0.0878,
+MinMax,DP-FedAvg (FedAdam),0.3,0.4082,
+MinMax,DP-FedAvg (FedAdam),0.4,0.3786,
+MinMax,DP-FedAvg (FedAdam),0.49,0.232,
+MinMax,DP-FedAvg (FedAdam),0.6,0.1501,
+MinMax,FedVRDP-style (FedAdam),0.0,0.5172,
+MinMax,FedVRDP-style (FedAdam),0.1,0.5956,
+MinMax,FedVRDP-style (FedAdam),0.2,0.5222,
+MinMax,FedVRDP-style (FedAdam),0.3,0.3791,
+MinMax,FedVRDP-style (FedAdam),0.4,0.2186,
+MinMax,FedVRDP-style (FedAdam),0.49,0.2468,
+MinMax,FedVRDP-style (FedAdam),0.6,0.0985,
+MinMax,Median (FedAdam),0.0,0.7789,
+MinMax,Median (FedAdam),0.1,0.1,
+MinMax,Median (FedAdam),0.2,0.5251,
+MinMax,Median (FedAdam),0.3,0.0823,
+MinMax,Median (FedAdam),0.4,0.1,
+MinMax,Median (FedAdam),0.49,0.1,
+MinMax,Median (FedAdam),0.6,0.1,
+MinMax,TrimmedMean (FedAdam),0.0,0.8256,
+MinMax,TrimmedMean (FedAdam),0.1,0.1,
+MinMax,TrimmedMean (FedAdam),0.2,0.2595,
+MinMax,TrimmedMean (FedAdam),0.3,0.1,
+MinMax,TrimmedMean (FedAdam),0.4,0.1,
+MinMax,TrimmedMean (FedAdam),0.49,0.1,
+MinMax,TrimmedMean (FedAdam),0.6,0.1,
+MinMax,Krum (FedAdam),0.0,0.1,
+MinMax,Krum (FedAdam),0.1,0.1,
+MinMax,Krum (FedAdam),0.2,0.1,
+MinMax,Krum (FedAdam),0.3,0.1,
+MinMax,Krum (FedAdam),0.4,0.1,
+MinMax,Krum (FedAdam),0.49,0.1,
+MinMax,Krum (FedAdam),0.6,0.1,
+MinMax,SparseFed-style (FedAdam),0.0,0.8708,
+MinMax,SparseFed-style (FedAdam),0.1,0.6981,
+MinMax,SparseFed-style (FedAdam),0.2,0.1,
+MinMax,SparseFed-style (FedAdam),0.3,0.1,
+MinMax,SparseFed-style (FedAdam),0.4,0.1,
+MinMax,SparseFed-style (FedAdam),0.49,0.0758,
+MinMax,SparseFed-style (FedAdam),0.6,0.1,
+MinMax,AG-PTR (P=I),0.0,0.2924,0.288889
+MinMax,AG-PTR (P=I),0.1,0.1015,0.394444
+MinMax,AG-PTR (P=I),0.2,0.1021,0.433333
+MinMax,AG-PTR (P=I),0.3,0.1736,0.227778
+MinMax,AG-PTR (P=I),0.4,0.2858,0.072222
+MinMax,AG-PTR (P=I),0.49,0.3713,0.055556
+MinMax,AG-PTR (P=I),0.6,0.0427,0.0
+MinMax,AG-PTR (FedAdam-diag P),0.0,0.757,0.35
+MinMax,AG-PTR (FedAdam-diag P),0.1,0.7591,0.472222
+MinMax,AG-PTR (FedAdam-diag P),0.2,0.7504,0.433333
+MinMax,AG-PTR (FedAdam-diag P),0.3,0.7496,0.244444
+MinMax,AG-PTR (FedAdam-diag P),0.4,0.7304,0.105556
+MinMax,AG-PTR (FedAdam-diag P),0.49,0.6329,0.05
+MinMax,AG-PTR (FedAdam-diag P),0.6,0.0427,0.0
+MinSum,DP-FedAvg (FedAdam),0.0,0.0984,
+MinSum,DP-FedAvg (FedAdam),0.1,0.1023,
+MinSum,DP-FedAvg (FedAdam),0.2,0.097,
+MinSum,DP-FedAvg (FedAdam),0.3,0.4045,
+MinSum,DP-FedAvg (FedAdam),0.4,0.2937,
+MinSum,DP-FedAvg (FedAdam),0.49,0.3044,
+MinSum,DP-FedAvg (FedAdam),0.6,0.117,
+MinSum,FedVRDP-style (FedAdam),0.0,0.5172,
+MinSum,FedVRDP-style (FedAdam),0.1,0.5913,
+MinSum,FedVRDP-style (FedAdam),0.2,0.4895,
+MinSum,FedVRDP-style (FedAdam),0.3,0.3895,
+MinSum,FedVRDP-style (FedAdam),0.4,0.3015,
+MinSum,FedVRDP-style (FedAdam),0.49,0.3529,
+MinSum,FedVRDP-style (FedAdam),0.6,0.2132,
+MinSum,Median (FedAdam),0.0,0.7789,
+MinSum,Median (FedAdam),0.1,0.1,
+MinSum,Median (FedAdam),0.2,0.5252,
+MinSum,Median (FedAdam),0.3,0.2189,
+MinSum,Median (FedAdam),0.4,0.0999,
+MinSum,Median (FedAdam),0.49,0.1,
+MinSum,Median (FedAdam),0.6,0.1,
+MinSum,TrimmedMean (FedAdam),0.0,0.8256,
+MinSum,TrimmedMean (FedAdam),0.1,0.1,
+MinSum,TrimmedMean (FedAdam),0.2,0.1,
+MinSum,TrimmedMean (FedAdam),0.3,0.1,
+MinSum,TrimmedMean (FedAdam),0.4,0.1001,
+MinSum,TrimmedMean (FedAdam),0.49,0.1,
+MinSum,TrimmedMean (FedAdam),0.6,0.1,
+MinSum,Krum (FedAdam),0.0,0.1,
+MinSum,Krum (FedAdam),0.1,0.1,
+MinSum,Krum (FedAdam),0.2,0.1,
+MinSum,Krum (FedAdam),0.3,0.1,
+MinSum,Krum (FedAdam),0.4,0.1,
+MinSum,Krum (FedAdam),0.49,0.1032,
+MinSum,Krum (FedAdam),0.6,0.1,
+MinSum,SparseFed-style (FedAdam),0.0,0.8708,
+MinSum,SparseFed-style (FedAdam),0.1,0.5352,
+MinSum,SparseFed-style (FedAdam),0.2,0.1004,
+MinSum,SparseFed-style (FedAdam),0.3,0.4753,
+MinSum,SparseFed-style (FedAdam),0.4,0.1,
+MinSum,SparseFed-style (FedAdam),0.49,0.1,
+MinSum,SparseFed-style (FedAdam),0.6,0.1,
+MinSum,AG-PTR (P=I),0.0,0.2924,0.288889
+MinSum,AG-PTR (P=I),0.1,0.1073,0.388889
+MinSum,AG-PTR (P=I),0.2,0.1202,0.333333
+MinSum,AG-PTR (P=I),0.3,0.1769,0.211111
+MinSum,AG-PTR (P=I),0.4,0.318,0.088889
+MinSum,AG-PTR (P=I),0.49,0.392,0.055556
+MinSum,AG-PTR (P=I),0.6,0.0427,0.0
+MinSum,AG-PTR (FedAdam-diag P),0.0,0.757,0.35
+MinSum,AG-PTR (FedAdam-diag P),0.1,0.7508,0.394444
+MinSum,AG-PTR (FedAdam-diag P),0.2,0.7501,0.427778
+MinSum,AG-PTR (FedAdam-diag P),0.3,0.7505,0.244444
+MinSum,AG-PTR (FedAdam-diag P),0.4,0.7305,0.105556
+MinSum,AG-PTR (FedAdam-diag P),0.49,0.6329,0.05
+MinSum,AG-PTR (FedAdam-diag P),0.6,0.0427,0.0
+LF,DP-FedAvg (FedAdam),0.0,0.0984,
+LF,DP-FedAvg (FedAdam),0.1,0.0993,
+LF,DP-FedAvg (FedAdam),0.2,0.1012,
+LF,DP-FedAvg (FedAdam),0.3,0.0995,
+LF,DP-FedAvg (FedAdam),0.4,0.0983,
+LF,DP-FedAvg (FedAdam),0.49,0.0975,
+LF,DP-FedAvg (FedAdam),0.6,0.0969,
+LF,FedVRDP-style (FedAdam),0.0,0.5172,
+LF,FedVRDP-style (FedAdam),0.1,0.4437,
+LF,FedVRDP-style (FedAdam),0.2,0.3888,
+LF,FedVRDP-style (FedAdam),0.3,0.1058,
+LF,FedVRDP-style (FedAdam),0.4,0.1673,
+LF,FedVRDP-style (FedAdam),0.49,0.1182,
+LF,FedVRDP-style (FedAdam),0.6,0.1004,
+LF,Median (FedAdam),0.0,0.7789,
+LF,Median (FedAdam),0.1,0.7687,
+LF,Median (FedAdam),0.2,0.7511,
+LF,Median (FedAdam),0.3,0.7533,
+LF,Median (FedAdam),0.4,0.6837,
+LF,Median (FedAdam),0.49,0.4071,
+LF,Median (FedAdam),0.6,0.0869,
+LF,TrimmedMean (FedAdam),0.0,0.8256,
+LF,TrimmedMean (FedAdam),0.1,0.1,
+LF,TrimmedMean (FedAdam),0.2,0.6663,
+LF,TrimmedMean (FedAdam),0.3,0.7109,
+LF,TrimmedMean (FedAdam),0.4,0.2692,
+LF,TrimmedMean (FedAdam),0.49,0.4298,
+LF,TrimmedMean (FedAdam),0.6,0.0923,
+LF,Krum (FedAdam),0.0,0.1,
+LF,Krum (FedAdam),0.1,0.1002,
+LF,Krum (FedAdam),0.2,0.0992,
+LF,Krum (FedAdam),0.3,0.1,
+LF,Krum (FedAdam),0.4,0.1883,
+LF,Krum (FedAdam),0.49,0.1,
+LF,Krum (FedAdam),0.6,0.1,
+LF,SparseFed-style (FedAdam),0.0,0.8708,
+LF,SparseFed-style (FedAdam),0.1,0.7899,
+LF,SparseFed-style (FedAdam),0.2,0.8363,
+LF,SparseFed-style (FedAdam),0.3,0.8543,
+LF,SparseFed-style (FedAdam),0.4,0.6676,
+LF,SparseFed-style (FedAdam),0.49,0.1,
+LF,SparseFed-style (FedAdam),0.6,0.1,
+LF,AG-PTR (P=I),0.0,0.2924,0.288889
+LF,AG-PTR (P=I),0.1,0.1015,0.2
+LF,AG-PTR (P=I),0.2,0.1358,0.394444
+LF,AG-PTR (P=I),0.3,0.1002,0.338889
+LF,AG-PTR (P=I),0.4,0.1024,0.411111
+LF,AG-PTR (P=I),0.49,0.1049,0.327778
+LF,AG-PTR (P=I),0.6,0.0427,0.0
+LF,AG-PTR (FedAdam-diag P),0.0,0.757,0.35
+LF,AG-PTR (FedAdam-diag P),0.1,0.7526,0.327778
+LF,AG-PTR (FedAdam-diag P),0.2,0.7365,0.094444
+LF,AG-PTR (FedAdam-diag P),0.3,0.7282,0.094444
+LF,AG-PTR (FedAdam-diag P),0.4,0.7208,0.088889
+LF,AG-PTR (FedAdam-diag P),0.49,0.7133,0.094444
+LF,AG-PTR (FedAdam-diag P),0.6,0.0427,0.0
+FoE,DP-FedAvg (FedAdam),0.0,0.0984,
+FoE,DP-FedAvg (FedAdam),0.1,0.0965,
+FoE,DP-FedAvg (FedAdam),0.2,0.3975,
+FoE,DP-FedAvg (FedAdam),0.3,0.2913,
+FoE,DP-FedAvg (FedAdam),0.4,0.1911,
+FoE,DP-FedAvg (FedAdam),0.49,0.1,
+FoE,DP-FedAvg (FedAdam),0.6,0.1,
+FoE,FedVRDP-style (FedAdam),0.0,0.5172,
+FoE,FedVRDP-style (FedAdam),0.1,0.6134,
+FoE,FedVRDP-style (FedAdam),0.2,0.5787,
+FoE,FedVRDP-style (FedAdam),0.3,0.6101,
+FoE,FedVRDP-style (FedAdam),0.4,0.5235,
+FoE,FedVRDP-style (FedAdam),0.49,0.241,
+FoE,FedVRDP-style (FedAdam),0.6,0.1,
+FoE,Median (FedAdam),0.0,0.7789,
+FoE,Median (FedAdam),0.1,0.7049,
+FoE,Median (FedAdam),0.2,0.5488,
+FoE,Median (FedAdam),0.3,0.1,
+FoE,Median (FedAdam),0.4,0.1,
+FoE,Median (FedAdam),0.49,0.1,
+FoE,Median (FedAdam),0.6,0.1,
+FoE,TrimmedMean (FedAdam),0.0,0.8256,
+FoE,TrimmedMean (FedAdam),0.1,0.7606,
+FoE,TrimmedMean (FedAdam),0.2,0.6187,
+FoE,TrimmedMean (FedAdam),0.3,0.0953,
+FoE,TrimmedMean (FedAdam),0.4,0.1,
+FoE,TrimmedMean (FedAdam),0.49,0.1,
+FoE,TrimmedMean (FedAdam),0.6,0.1,
+FoE,Krum (FedAdam),0.0,0.1,
+FoE,Krum (FedAdam),0.1,0.5602,
+FoE,Krum (FedAdam),0.2,0.1,
+FoE,Krum (FedAdam),0.3,0.1,
+FoE,Krum (FedAdam),0.4,0.1,
+FoE,Krum (FedAdam),0.49,0.1,
+FoE,Krum (FedAdam),0.6,0.1,
+FoE,SparseFed-style (FedAdam),0.0,0.8708,
+FoE,SparseFed-style (FedAdam),0.1,0.8794,
+FoE,SparseFed-style (FedAdam),0.2,0.8931,
+FoE,SparseFed-style (FedAdam),0.3,0.8933,
+FoE,SparseFed-style (FedAdam),0.4,0.8814,
+FoE,SparseFed-style (FedAdam),0.49,0.1001,
+FoE,SparseFed-style (FedAdam),0.6,0.1,
+FoE,AG-PTR (P=I),0.0,0.2924,0.288889
+FoE,AG-PTR (P=I),0.1,0.3438,0.194444
+FoE,AG-PTR (P=I),0.2,0.0864,0.311111
+FoE,AG-PTR (P=I),0.3,0.1525,0.205556
+FoE,AG-PTR (P=I),0.4,0.318,0.088889
+FoE,AG-PTR (P=I),0.49,0.3364,0.066667
+FoE,AG-PTR (P=I),0.6,0.0427,0.0
+FoE,AG-PTR (FedAdam-diag P),0.0,0.757,0.35
+FoE,AG-PTR (FedAdam-diag P),0.1,0.7566,0.411111
+FoE,AG-PTR (FedAdam-diag P),0.2,0.7537,0.388889
+FoE,AG-PTR (FedAdam-diag P),0.3,0.7491,0.161111
+FoE,AG-PTR (FedAdam-diag P),0.4,0.7208,0.094444
+FoE,AG-PTR (FedAdam-diag P),0.49,0.6432,0.044444
+FoE,AG-PTR (FedAdam-diag P),0.6,0.0427,0.0
