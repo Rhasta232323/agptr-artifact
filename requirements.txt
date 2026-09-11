@@ -1,0 +1,10 @@
+# Tested environment: Google Colab (Python 3.13) with a T4 GPU.
+# Versions recorded from the saved notebook outputs (Cell 1 prints them): install opacus with --no-deps to keep
+# Colab's torch/torchvision pair.
+torch==2.11.0+cu128
+torchvision==0.26.0+cu128
+opacus==1.4.0
+numpy>=1.26
+pandas>=2.2
+matplotlib>=3.8
+tqdm
