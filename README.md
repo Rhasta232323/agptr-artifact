@@ -1,4 +1,4 @@
-# AG-PTR: Anchor-Gated Propose-Test-Release — artifact (anonymized submission to IEEE SaTML 2027)
+# AG-PTR: Anchor-Gated Propose-Test-Release - artifact (anonymized submission to IEEE SaTML 2027)
 
 Complete implementation, every run behind every figure and table in the paper, and scripts that regenerate the
 figures and tables from the saved results. Every run uses Poisson client sampling (each client joins a round
